@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop ASUS ZenBook",
+    "description": "Potente laptop ultradelgada con pantalla táctil y procesador Intel Core i7.",
+    "price": 1499.99,
+    "thumbnail": "https://example.com/laptop-asus-thumbnail.jpg",
+    "code": "ASUS123",
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "title": "Smartphone Samsung Galaxy S21",
+    "description": "Teléfono inteligente con cámara de 108 MP, pantalla AMOLED y 5G.",
+    "price": 899.99,
+    "thumbnail": "https://example.com/samsung-s21-thumbnail.jpg",
+    "code": "SAMSUNG456",
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "title": "Smart TV Sony Bravia 4K",
+    "description": "Televisor LED con resolución 4K, tecnología HDR y Android TV integrado.",
+    "price": 1299.99,
+    "thumbnail": "https://example.com/sony-bravia-thumbnail.jpg",
+    "code": "SONY789",
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "title": "Auriculares Bose QuietComfort 35 II",
+    "description": "Auriculares con cancelación de ruido, sonido envolvente y hasta 20 horas de autonomía.",
+    "price": 299.99,
+    "thumbnail": "https://example.com/bose-quietcomfort-thumbnail.jpg",
+    "code": "BOSE012",
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "title": "Cámara Canon EOS R5",
+    "description": "Cámara sin espejo con sensor de imagen de 45 MP y capacidad de grabación de video 8K.",
+    "price": 3799.99,
+    "thumbnail": "https://example.com/canon-eos-thumbnail.jpg",
+    "code": "CANON345",
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "title": "Robot Aspirador iRobot Roomba i7+",
+    "description": "Aspiradora robot con sistema de autovaciado, mapeo inteligente y control por voz.",
+    "price": 699.99,
+    "thumbnail": "https://example.com/roomba-thumbnail.jpg",
+    "code": "IROBOT678",
+    "stock": 18
+  },
+  {
+    "id": 7,
+    "title": "Altavoces Sonos Move",
+    "description": "Altavoces portátiles con batería integrada, resistencia al agua y conectividad Bluetooth.",
+    "price": 399.99,
+    "thumbnail": "https://example.com/sonos-move-thumbnail.jpg",
+    "code": "SONOS901",
+    "stock": 22
+  },
+  {
+    "id": 8,
+    "title": "Teclado mecánico Corsair K95 RGB Platinum XT",
+    "description": "Teclado gaming con interruptores Cherry MX, retroiluminación RGB y reposamuñecas desmontable.",
+    "price": 199.99,
+    "thumbnail": "https://example.com/corsair-keyboard-thumbnail.jpg",
+    "code": "CORSAIR234",
+    "stock": 12
+  },
+  {
+    "id": 9,
+    "title": "Monitor LG UltraGear 27GL83A-B",
+    "description": "Monitor IPS gaming de 27 pulgadas con resolución QHD y frecuencia de actualización de 144 Hz.",
+    "price": 499.99,
+    "thumbnail": "https://example.com/lg-monitor-thumbnail.jpg",
+    "code": "LG567",
+    "stock": 20
+  },
+  {
+    "id": 10,
+    "title": "Impresora 3D Creality Ender 3 V2",
+    "description": "Impresora 3D con estructura robusta, fácil montaje y volumen de impresión de 220 x 220 x 250 mm.",
+    "price": 259.99,
+    "thumbnail": "https://example.com/creality-ender-thumbnail.jpg",
+    "code": "CREALITY890",
+    "stock": 15
+  }
+]
