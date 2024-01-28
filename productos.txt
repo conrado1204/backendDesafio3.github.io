@@ -1,14 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "Laptop ASUS ZenBook",
-    "description": "Potente laptop ultradelgada con pantalla táctil y procesador Intel Core i7.",
-    "price": 1499.99,
-    "thumbnail": "https://example.com/laptop-asus-thumbnail.jpg",
-    "code": "ASUS123",
-    "stock": 20
-  },
-  {
     "id": 2,
     "title": "Smartphone Samsung Galaxy S21",
     "description": "Teléfono inteligente con cámara de 108 MP, pantalla AMOLED y 5G.",
@@ -88,5 +79,8 @@
     "thumbnail": "https://example.com/creality-ender-thumbnail.jpg",
     "code": "CREALITY890",
     "stock": 15
+  },
+  {
+    "id": 11
   }
 ]
